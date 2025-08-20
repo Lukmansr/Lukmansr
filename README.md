@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=AI%20Prompts%20Collection&fontSize=30&fontAlignY=35&animation=fadeIn" />
+</p>
+
 # 🎨 AI Prompts  
 
 A curated collection of **creative, visual, and experimental prompts** for AI models.  
