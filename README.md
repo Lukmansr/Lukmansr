@@ -1,3 +1,7 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=AI%20Prompts%20Collection&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 # Hi, I'm Lukman 👋  
 
 🌱 Learning and exploring the world of **AI, prompt engineering, and programming**.  
@@ -40,4 +44,8 @@ Designed for **text generation, storytelling, worldbuilding, image & video creat
 
 ---
 
+<p align="center"> <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" /> <img src="https://img.shields.io/badge/Status-Experimental-blue" /> <img src="https://img.shields.io/github/stars/Lukmansr/Lukmansr?style=social" /> </p>
+
 ✨ _“Learning AI step by step, building prompts & creative projects along the way.”_  
+
+<!-- Footer --> <p align="center"> 🌱 Built step by step by <b>Lukman</b> | Learning AI & Prompt Engineering </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" /> </p> ```
