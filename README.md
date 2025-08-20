@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Lukman 👋  
 
-<!--
-**Lukmansr/Lukmansr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m learning and exploring the world of **AI, prompt engineering, and programming**.  
+Currently, I use GitHub to document my journey, experiments, and projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools (basic)  
+- Python (learning)  
+- Prompt Engineering  
+- Git & GitHub basics  
+- CapCut (video editing)  
+
+---
+
+## 🌱 Goals  
+- Improve my coding skills step by step  
+- Build small projects and share them here  
+- Learn more about AI and open-source collaboration  
+
+---
+
+## 📫 Contact  
+- Email: [lukmansara32@gmail.com]
